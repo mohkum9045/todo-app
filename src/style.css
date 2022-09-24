@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(221, 221, 219);
+}
+.main {
+  background-color: white;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: auto;
+}
